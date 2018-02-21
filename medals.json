@@ -1,0 +1,245 @@
+[
+  {
+    "RANK": 1,
+    "CODE": "NOR",
+    "NAME": "Norway",
+    "GOLD": 13,
+    "SILVER": 11,
+    "BRONZE": 9,
+    "TOTAL": 33
+  },
+  {
+    "RANK": 2,
+    "CODE": "GER",
+    "NAME": "Germany",
+    "GOLD": 12,
+    "SILVER": 7,
+    "BRONZE": 5,
+    "TOTAL": 24
+  },
+  {
+    "RANK": 3,
+    "CODE": "CAN",
+    "NAME": "Canada",
+    "GOLD": 9,
+    "SILVER": 5,
+    "BRONZE": 7,
+    "TOTAL": 21
+  },
+  {
+    "RANK": 4,
+    "CODE": "NED",
+    "NAME": "Netherlands",
+    "GOLD": 6,
+    "SILVER": 6,
+    "BRONZE": 4,
+    "TOTAL": 16
+  },
+  {
+    "RANK": 5,
+    "CODE": "USA",
+    "NAME": "United States",
+    "GOLD": 6,
+    "SILVER": 4,
+    "BRONZE": 6,
+    "TOTAL": 16
+  },
+  {
+    "RANK": 6,
+    "CODE": "FRA",
+    "NAME": "France",
+    "GOLD": 5,
+    "SILVER": 4,
+    "BRONZE": 5,
+    "TOTAL": 14
+  },
+  {
+    "RANK": 7,
+    "CODE": "OAR",
+    "NAME": "Olympic Athlete from Russia",
+    "GOLD": 0,
+    "SILVER": 4,
+    "BRONZE": 9,
+    "TOTAL": 13
+  },
+  {
+    "RANK": 8,
+    "CODE": "JPN",
+    "NAME": "Japan",
+    "GOLD": 3,
+    "SILVER": 5,
+    "BRONZE": 3,
+    "TOTAL": 11
+  },
+  {
+    "RANK": 9,
+    "CODE": "AUT",
+    "NAME": "Austria",
+    "GOLD": 4,
+    "SILVER": 2,
+    "BRONZE": 4,
+    "TOTAL": 10
+  },
+  {
+    "RANK": 10,
+    "CODE": "KOR",
+    "NAME": "South Korea",
+    "GOLD": 4,
+    "SILVER": 3,
+    "BRONZE": 2,
+    "TOTAL": 9
+  },
+  {
+    "RANK": 11,
+    "CODE": "ITA",
+    "NAME": "Italy",
+    "GOLD": 3,
+    "SILVER": 2,
+    "BRONZE": 4,
+    "TOTAL": 9
+  },
+  {
+    "RANK": 12,
+    "CODE": "SWE",
+    "NAME": "Sweden",
+    "GOLD": 4,
+    "SILVER": 4,
+    "BRONZE": 0,
+    "TOTAL": 8
+  },
+  {
+    "RANK": 13,
+    "CODE": "SUI",
+    "NAME": "Switzerland",
+    "GOLD": 2,
+    "SILVER": 5,
+    "BRONZE": 1,
+    "TOTAL": 8
+  },
+  {
+    "RANK": 14,
+    "CODE": "CHN",
+    "NAME": "China",
+    "GOLD": 0,
+    "SILVER": 5,
+    "BRONZE": 2,
+    "TOTAL": 7
+  },
+  {
+    "RANK": 15,
+    "CODE": "CZE",
+    "NAME": "Czech Republic",
+    "GOLD": 1,
+    "SILVER": 2,
+    "BRONZE": 3,
+    "TOTAL": 6
+  },
+  {
+    "RANK": 16,
+    "CODE": "GBR",
+    "NAME": "Great Britain",
+    "GOLD": 1,
+    "SILVER": 0,
+    "BRONZE": 3,
+    "TOTAL": 4
+  },
+  {
+    "RANK": 17,
+    "CODE": "FIN",
+    "NAME": "Finland",
+    "GOLD": 0,
+    "SILVER": 0,
+    "BRONZE": 4,
+    "TOTAL": 4
+  },
+  {
+    "RANK": 18,
+    "CODE": "SVK",
+    "NAME": "Slovakia",
+    "GOLD": 1,
+    "SILVER": 2,
+    "BRONZE": 0,
+    "TOTAL": 3
+  },
+  {
+    "RANK": 19,
+    "CODE": "AUS",
+    "NAME": "Australia",
+    "GOLD": 0,
+    "SILVER": 2,
+    "BRONZE": 1,
+    "TOTAL": 3
+  },
+  {
+    "RANK": 20,
+    "CODE": "BLR",
+    "NAME": "Belarus",
+    "GOLD": 1,
+    "SILVER": 1,
+    "BRONZE": 0,
+    "TOTAL": 2
+  },
+  {
+    "RANK": 21,
+    "CODE": "POL",
+    "NAME": "Poland",
+    "GOLD": 1,
+    "SILVER": 0,
+    "BRONZE": 1,
+    "TOTAL": 2
+  },
+  {
+    "RANK": 22,
+    "CODE": "ESP",
+    "NAME": "Spain",
+    "GOLD": 0,
+    "SILVER": 0,
+    "BRONZE": 2,
+    "TOTAL": 2
+  },
+  {
+    "RANK": 23,
+    "CODE": "UKR",
+    "NAME": "Ukraine",
+    "GOLD": 1,
+    "SILVER": 0,
+    "BRONZE": 0,
+    "TOTAL": 1
+  },
+  {
+    "RANK": 24,
+    "CODE": "SLO",
+    "NAME": "Slovenia",
+    "GOLD": 0,
+    "SILVER": 1,
+    "BRONZE": 0,
+    "TOTAL": 1
+  },
+  {
+    "RANK": 25,
+    "CODE": "KAZ",
+    "NAME": "Kazakhstan",
+    "GOLD": 0,
+    "SILVER": 0,
+    "BRONZE": 1,
+    "TOTAL": 1
+  },
+  {
+    "RANK": 26,
+    "CODE": "LAT",
+    "NAME": "Latvia",
+    "GOLD": 0,
+    "SILVER": 0,
+    "BRONZE": 1,
+    "TOTAL": 1
+  },
+  {
+    "RANK": 27,
+    "CODE": "LIE",
+    "NAME": "Liechtenstein",
+    "GOLD": 0,
+    "SILVER": 0,
+    "BRONZE": 1,
+    "TOTAL": 1
+  }
+]

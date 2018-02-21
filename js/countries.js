@@ -1,0 +1,1873 @@
+define([{
+    "CODE": "AFG",
+    "X": 66.02647078,
+    "Y": 33.83880563,
+    "NAME": "Afghanistan",
+    "NAME2": "",
+    "CNTRY_NAME": "Afghanistan",
+    "LINK": "afghanistan",
+    "FLAG": "AF"
+}, {
+    "CODE": "ALB",
+    "X": 20.06838417,
+    "Y": 41.14228607,
+    "NAME": "Albania",
+    "NAME2": "",
+    "CNTRY_NAME": "Albania",
+    "LINK": "albania",
+    "FLAG": "AL"
+}, {
+    "CODE": "ALG",
+    "X": 2.632388483,
+    "Y": 28.16323954,
+    "NAME": "Algeria",
+    "NAME2": "",
+    "CNTRY_NAME": "Algeria",
+    "LINK": "algeria",
+    "FLAG": "DZ"
+}, {
+    "CODE": "ASA",
+    "X": -170.69255,
+    "Y": -14.29800678,
+    "NAME": "American Samoa",
+    "NAME2": "",
+    "CNTRY_NAME": "American Samoa",
+    "LINK": "american-samoa",
+    "FLAG": "AS"
+}, {
+    "CODE": "AND",
+    "X": 1.601554636,
+    "Y": 42.5505739,
+    "NAME": "Andorra",
+    "NAME2": "",
+    "CNTRY_NAME": "Andorra",
+    "LINK": "andorra",
+    "FLAG": "AD"
+}, {
+    "CODE": "ANG",
+    "X": 17.57269427,
+    "Y": -12.33527602,
+    "NAME": "Angola",
+    "NAME2": "",
+    "CNTRY_NAME": "Angola",
+    "LINK": "angola",
+    "FLAG": "AO"
+}, {
+    "CODE": "ANT",
+    "X": -61.77902741,
+    "Y": 17.0742934,
+    "NAME": "Antigua and Barbuda",
+    "NAME2": "",
+    "CNTRY_NAME": "Antigua & Barbuda",
+    "LINK": "antigua-and-barbuda",
+    "FLAG": "AG"
+}, {
+    "CODE": "ARG",
+    "X": -65.1443053,
+    "Y": -35.17768203,
+    "NAME": "Argentina",
+    "NAME2": "",
+    "CNTRY_NAME": "Argentina",
+    "LINK": "argentina",
+    "FLAG": "AR"
+}, {
+    "CODE": "ARM",
+    "X": 44.24575656,
+    "Y": 40.63153263,
+    "NAME": "Armenia",
+    "NAME2": "",
+    "CNTRY_NAME": "Armenia",
+    "LINK": "armenia",
+    "FLAG": "AM"
+}, {
+    "CODE": "ARU",
+    "X": -69.96726389,
+    "Y": 12.507403,
+    "NAME": "Aruba",
+    "NAME2": "",
+    "CNTRY_NAME": "Aruba",
+    "LINK": "aruba",
+    "FLAG": "AW"
+}, {
+    "CODE": "AUS",
+    "X": 133.4243093,
+    "Y": -21.99711231,
+    "NAME": "Australia",
+    "NAME2": "",
+    "CNTRY_NAME": "Australia",
+    "LINK": "australia",
+    "FLAG": "AU"
+}, {
+    "CODE": "AUT",
+    "X": 15.25818,
+    "Y": 47.82323158,
+    "NAME": "Austria",
+    "NAME2": "",
+    "CNTRY_NAME": "Austria",
+    "LINK": "austria",
+    "FLAG": "AT"
+}, {
+    "CODE": "AZE",
+    "X": 50.01349322,
+    "Y": 40.3907564,
+    "NAME": "Azerbaijan",
+    "NAME2": "",
+    "CNTRY_NAME": "Azerbaijan",
+    "LINK": "azerbaijan",
+    "FLAG": "AZ"
+}, {
+    "CODE": "BAH",
+    "X": -78.04060061,
+    "Y": 24.70145001,
+    "NAME": "Bahamas",
+    "NAME2": "",
+    "CNTRY_NAME": "Bahamas",
+    "LINK": "bahamas",
+    "FLAG": "BS"
+}, {
+    "CODE": "BRN",
+    "X": 50.53652264,
+    "Y": 26.03656493,
+    "NAME": "Bahrain",
+    "NAME2": "",
+    "CNTRY_NAME": "Bahrain",
+    "LINK": "bahrain",
+    "FLAG": "BH"
+}, {
+    "CODE": "BAN",
+    "X": 89.20024058,
+    "Y": 23.93403297,
+    "NAME": "Bangladesh",
+    "NAME2": "",
+    "CNTRY_NAME": "Bangladesh",
+    "LINK": "bangladesh",
+    "FLAG": "BD"
+}, {
+    "CODE": "BAR",
+    "X": -59.5619547,
+    "Y": 13.17871448,
+    "NAME": "Barbados",
+    "NAME2": "",
+    "CNTRY_NAME": "Barbados",
+    "LINK": "barbados",
+    "FLAG": "BB"
+}, {
+    "CODE": "BLR",
+    "X": 28.04678765,
+    "Y": 53.53999773,
+    "NAME": "Belarus",
+    "NAME2": "",
+    "CNTRY_NAME": "Belarus",
+    "LINK": "belarus",
+    "FLAG": "BY"
+}, {
+    "CODE": "BEL",
+    "X": 5.434065921,
+    "Y": 50.43793572,
+    "NAME": "Belgium",
+    "NAME2": "",
+    "CNTRY_NAME": "Belgium",
+    "LINK": "belgium",
+    "FLAG": "BE"
+}, {
+    "CODE": "BIZ",
+    "X": -88.69589802,
+    "Y": 17.209997,
+    "NAME": "Belize",
+    "NAME2": "",
+    "CNTRY_NAME": "Belize",
+    "LINK": "belize",
+    "FLAG": "BZ"
+}, {
+    "CODE": "BEN",
+    "X": 2.343134618,
+    "Y": 9.647318947,
+    "NAME": "Benin",
+    "NAME2": "",
+    "CNTRY_NAME": "Benin",
+    "LINK": "benin",
+    "FLAG": "BJ"
+}, {
+    "CODE": "BER",
+    "X": -64.74993642,
+    "Y": 32.302613,
+    "NAME": "Bermuda",
+    "NAME2": "",
+    "CNTRY_NAME": "Bermuda",
+    "LINK": "bermuda",
+    "FLAG": "BM"
+}, {
+    "CODE": "BHU",
+    "X": 90.43307722,
+    "Y": 27.47727324,
+    "NAME": "Bhutan",
+    "NAME2": "",
+    "CNTRY_NAME": "Bhutan",
+    "LINK": "bhutan",
+    "FLAG": "BT"
+}, {
+    "CODE": "BOL",
+    "X": -63.58865441,
+    "Y": -17.25766946,
+    "NAME": "Bolivia",
+    "NAME2": "",
+    "CNTRY_NAME": "Bolivia",
+    "LINK": "bolivia",
+    "FLAG": "BO"
+}, {
+    "CODE": "BIH",
+    "X": 17.78653088,
+    "Y": 44.16811541,
+    "NAME": "Bosnia & Herzegovina",
+    "NAME2": "",
+    "CNTRY_NAME": "Bosnia & Herzegovina",
+    "LINK": "bosnia-and-herzegovina",
+    "FLAG": "BA"
+}, {
+    "CODE": "BOT",
+    "X": 23.81502778,
+    "Y": -22.18200338,
+    "NAME": "Botswana",
+    "NAME2": "",
+    "CNTRY_NAME": "Botswana",
+    "LINK": "botswana",
+    "FLAG": "BW"
+}, {
+    "CODE": "BRA",
+    "X": -53.11221188,
+    "Y": -10.83493506,
+    "NAME": "Brazil",
+    "NAME2": "",
+    "CNTRY_NAME": "Brazil",
+    "LINK": "brazil",
+    "FLAG": "BR"
+}, {
+    "CODE": "BRU",
+    "X": 114.5993413,
+    "Y": 4.417171626,
+    "NAME": "Brunei Darussalam",
+    "NAME2": "",
+    "CNTRY_NAME": "Brunei",
+    "LINK": "brunei-darussalam",
+    "FLAG": "BN"
+}, {
+    "CODE": "BUL",
+    "X": 23.92523903,
+    "Y": 42.60210669,
+    "NAME": "Bulgaria",
+    "NAME2": "",
+    "CNTRY_NAME": "Bulgaria",
+    "LINK": "bulgaria",
+    "FLAG": "BG"
+}, {
+    "CODE": "BUR",
+    "X": -1.561454772,
+    "Y": 12.79774623,
+    "NAME": "Burkina Faso",
+    "NAME2": "",
+    "CNTRY_NAME": "Burkina Faso",
+    "LINK": "burkina-faso",
+    "FLAG": "BF"
+}, {
+    "CODE": "BDI",
+    "X": 29.91909568,
+    "Y": -3.502210498,
+    "NAME": "Burundi",
+    "NAME2": "",
+    "CNTRY_NAME": "Burundi",
+    "LINK": "burundi",
+    "FLAG": "BI"
+}, {
+    "CODE": "CAM",
+    "X": 104.923982,
+    "Y": 12.71643178,
+    "NAME": "Cambodia",
+    "NAME2": "",
+    "CNTRY_NAME": "Cambodia",
+    "LINK": "cambodia",
+    "FLAG": "KH"
+}, {
+    "CODE": "CMR",
+    "X": 12.74359412,
+    "Y": 5.685952286,
+    "NAME": "Cameroon",
+    "NAME2": "",
+    "CNTRY_NAME": "Cameroon",
+    "LINK": "cameroon",
+    "FLAG": "CM"
+}, {
+    "CODE": "CAN",
+    "X": -119.663641,
+    "Y": 59.158753,
+    "NAME": "Canada",
+    "NAME2": "",
+    "CNTRY_NAME": "Canada",
+    "LINK": "canada",
+    "FLAG": "CA"
+}, {
+    "CODE": "CPV",
+    "X": -23.61861333,
+    "Y": 15.05372765,
+    "NAME": "Cape Verde",
+    "NAME2": "",
+    "CNTRY_NAME": "Cape Verde",
+    "LINK": "cape-verde",
+    "FLAG": "CV"
+}, {
+    "CODE": "CAY",
+    "X": -81.24694994,
+    "Y": 19.31144301,
+    "NAME": "Cayman Islands",
+    "NAME2": "",
+    "CNTRY_NAME": "Cayman Is.",
+    "LINK": "cayman-islands",
+    "FLAG": "KY"
+}, {
+    "CODE": "CAF",
+    "X": 17.67909799,
+    "Y": 5.80816425,
+    "NAME": "Central African Rep.",
+    "NAME2": "",
+    "CNTRY_NAME": "Central African Republic",
+    "LINK": "central-african-republic",
+    "FLAG": "CF"
+}, {
+    "CODE": "CHA",
+    "X": 18.73234515,
+    "Y": 15.20061246,
+    "NAME": "Chad",
+    "NAME2": "",
+    "CNTRY_NAME": "Chad",
+    "LINK": "chad",
+    "FLAG": "TD"
+}, {
+    "CODE": "CHI",
+    "X": -71.25498513,
+    "Y": -35.50880794,
+    "NAME": "Chile",
+    "NAME2": "",
+    "CNTRY_NAME": "Chile",
+    "LINK": "chile",
+    "FLAG": "CL"
+}, {
+    "CODE": "CHN",
+    "X": 104.1942542,
+    "Y": 32.31950787,
+    "NAME": "China",
+    "NAME2": "",
+    "CNTRY_NAME": "China",
+    "LINK": "people-s-republic-of-china",
+    "FLAG": "CN"
+}, {
+    "CODE": "TPE",
+    "X": 120.9605,
+    "Y": 23.6978,
+    "NAME": "Chinese Taipei",
+    "NAME2": "",
+    "CNTRY_NAME": "Chinese Taipei",
+    "LINK": "chinese-taipei",
+    "FLAG": "TW"
+}, {
+    "CODE": "COL",
+    "X": -73.07179261,
+    "Y": 3.901052567,
+    "NAME": "Colombia",
+    "NAME2": "",
+    "CNTRY_NAME": "Colombia",
+    "LINK": "colombia",
+    "FLAG": "CO"
+}, {
+    "CODE": "COM",
+    "X": 43.34126157,
+    "Y": -11.66579429,
+    "NAME": "Comoros",
+    "NAME2": "",
+    "CNTRY_NAME": "Comoros",
+    "LINK": "comoros",
+    "FLAG": "KM"
+}, {
+    "CODE": "CGO",
+    "X": 16.76787271,
+    "Y": 1.085787172,
+    "NAME": "Congo",
+    "NAME2": "",
+    "CNTRY_NAME": "Congo",
+    "LINK": "congo",
+    "FLAG": "CG"
+}, {
+    "CODE": "COK",
+    "X": -159.786468,
+    "Y": -21.22058027,
+    "NAME": "Cook Islands",
+    "NAME2": "",
+    "CNTRY_NAME": "Cook Is.",
+    "LINK": "cook-islands",
+    "FLAG": "CK"
+}, {
+    "CODE": "CRC",
+    "X": -84.18794118,
+    "Y": 9.970202863,
+    "NAME": "Costa Rica",
+    "NAME2": "",
+    "CNTRY_NAME": "Costa Rica",
+    "LINK": "costa-rica",
+    "FLAG": "CR"
+}, {
+    "CODE": "CIV",
+    "X": -5.547081846,
+    "Y": 7.76508196,
+    "NAME": "Cote d'Ivoire",
+    "NAME2": "",
+    "CNTRY_NAME": "Cote d'Ivoire",
+    "LINK": "cote-d-ivoire",
+    "FLAG": "CI"
+}, {
+    "CODE": "CRO",
+    "X": 16.46489574,
+    "Y": 43.7807248,
+    "NAME": "Croatia",
+    "NAME2": "",
+    "CNTRY_NAME": "Croatia",
+    "LINK": "croatia",
+    "FLAG": "HR"
+}, {
+    "CODE": "CUB",
+    "X": -79.54209095,
+    "Y": 22.09890727,
+    "NAME": "Cuba",
+    "NAME2": "",
+    "CNTRY_NAME": "Cuba",
+    "LINK": "cuba",
+    "FLAG": "CU"
+}, {
+    "CODE": "CYP",
+    "X": 33.22176048,
+    "Y": 35.04588006,
+    "NAME": "Cyprus",
+    "NAME2": "",
+    "CNTRY_NAME": "Cyprus",
+    "LINK": "cyprus",
+    "FLAG": "CY"
+}, {
+    "CODE": "CZE",
+    "X": 13.7833297,
+    "Y": 49.78668954,
+    "NAME": "Czech Republic",
+    "NAME2": "",
+    "CNTRY_NAME": "Czech Republic",
+    "LINK": "czech-republic",
+    "FLAG": "CZ"
+}, {
+    "CODE": "DEN",
+    "X": 9.31712818,
+    "Y": 56.03646065,
+    "NAME": "Denmark",
+    "NAME2": "",
+    "CNTRY_NAME": "Denmark",
+    "LINK": "denmark",
+    "FLAG": "DK"
+}, {
+    "CODE": "DJI",
+    "X": 42.17499291,
+    "Y": 11.57333953,
+    "NAME": "Djibouti",
+    "NAME2": "",
+    "CNTRY_NAME": "Djibouti",
+    "LINK": "djibouti",
+    "FLAG": "DJ"
+}, {
+    "CODE": "DMA",
+    "X": -61.31087264,
+    "Y": 15.40036665,
+    "NAME": "Dominica",
+    "NAME2": "",
+    "CNTRY_NAME": "Dominica",
+    "LINK": "dominica",
+    "FLAG": "DM"
+}, {
+    "CODE": "DOM",
+    "X": -70.48960675,
+    "Y": 18.89650357,
+    "NAME": "Dominican Republic",
+    "NAME2": "",
+    "CNTRY_NAME": "Dominican Republic",
+    "LINK": "dominican-republic",
+    "FLAG": "DO"
+}, {
+    "CODE": "PRK",
+    "X": 127.1819567,
+    "Y": 40.14306304,
+    "NAME": "DPR Korea",
+    "NAME2": "",
+    "CNTRY_NAME": "North Korea",
+    "LINK": "democratic-people-s-republic-of-korea",
+    "FLAG": "KP"
+}, {
+    "CODE": "COD",
+    "X": 23.65500571,
+    "Y": -2.876234745,
+    "NAME": "DR Congo",
+    "NAME2": "",
+    "CNTRY_NAME": "Congo, DRC",
+    "LINK": "democratic-republic-of-the-congo",
+    "FLAG": "CD"
+}, {
+    "CODE": "ECU",
+    "X": -78.38611426,
+    "Y": -1.448638591,
+    "NAME": "Ecuador",
+    "NAME2": "",
+    "CNTRY_NAME": "Ecuador",
+    "LINK": "ecuador",
+    "FLAG": "EC"
+}, {
+    "CODE": "EGY",
+    "X": 29.871958,
+    "Y": 26.49425413,
+    "NAME": "Egypt",
+    "NAME2": "",
+    "CNTRY_NAME": "Egypt",
+    "LINK": "egypt",
+    "FLAG": "EG"
+}, {
+    "CODE": "ESA",
+    "X": -88.29802065,
+    "Y": 13.53238146,
+    "NAME": "El Salvador",
+    "NAME2": "",
+    "CNTRY_NAME": "El Salvador",
+    "LINK": "el-salvador",
+    "FLAG": "SV"
+}, {
+    "CODE": "GEQ",
+    "X": 10.35708218,
+    "Y": 1.585055297,
+    "NAME": "Equatorial Guinea",
+    "NAME2": "",
+    "CNTRY_NAME": "Equatorial Guinea",
+    "LINK": "equatorial-guinea",
+    "FLAG": "GQ"
+}, {
+    "CODE": "ERI",
+    "X": 38.11280721,
+    "Y": 16.1085416,
+    "NAME": "Eritrea",
+    "NAME2": "",
+    "CNTRY_NAME": "Eritrea",
+    "LINK": "eritrea",
+    "FLAG": "ER"
+}, {
+    "CODE": "EST",
+    "X": 25.8324995,
+    "Y": 58.68896637,
+    "NAME": "Estonia",
+    "NAME2": "",
+    "CNTRY_NAME": "Estonia",
+    "LINK": "estonia",
+    "FLAG": "EE"
+}, {
+    "CODE": "ETH",
+    "X": 36.74091144,
+    "Y": 9.380620625,
+    "NAME": "Ethiopia",
+    "NAME2": "",
+    "CNTRY_NAME": "Ethiopia",
+    "LINK": "ethiopia",
+    "FLAG": "ET"
+}, {
+    "CODE": "FIJ",
+    "X": 177.9736279,
+    "Y": -17.82524845,
+    "NAME": "Fiji",
+    "NAME2": "",
+    "CNTRY_NAME": "Fiji",
+    "LINK": "fiji",
+    "FLAG": "FJ"
+}, {
+    "CODE": "FIN",
+    "X": 26.29107153,
+    "Y": 64.51903469,
+    "NAME": "Finland",
+    "NAME2": "",
+    "CNTRY_NAME": "Finland",
+    "LINK": "finland",
+    "FLAG": "FI"
+}, {
+    "CODE": "FRA",
+    "X": 2.456013828,
+    "Y": 46.63119132,
+    "NAME": "France",
+    "NAME2": "",
+    "CNTRY_NAME": "France",
+    "LINK": "france",
+    "FLAG": "FR"
+}, {
+    "CODE": "GAB",
+    "X": 11.79880558,
+    "Y": -0.590892018,
+    "NAME": "Gabon",
+    "NAME2": "",
+    "CNTRY_NAME": "Gabon",
+    "LINK": "gabon",
+    "FLAG": "GA"
+}, {
+    "CODE": "GAM",
+    "X": -16.06590014,
+    "Y": 13.28506558,
+    "NAME": "Gambia",
+    "NAME2": "",
+    "CNTRY_NAME": "The Gambia",
+    "LINK": "gambia",
+    "FLAG": "GM"
+}, {
+    "CODE": "GEO",
+    "X": 43.51744764,
+    "Y": 42.17631151,
+    "NAME": "Georgia",
+    "NAME2": "",
+    "CNTRY_NAME": "Georgia",
+    "LINK": "georgia",
+    "FLAG": "GE"
+}, {
+    "CODE": "GER",
+    "X": 10.38083868,
+    "Y": 51.09069942,
+    "NAME": "Germany",
+    "NAME2": "",
+    "CNTRY_NAME": "Germany",
+    "LINK": "germany",
+    "FLAG": "DE"
+}, {
+    "CODE": "GHA",
+    "X": -1.023054285,
+    "Y": 8.104410372,
+    "NAME": "Ghana",
+    "NAME2": "",
+    "CNTRY_NAME": "Ghana",
+    "LINK": "ghana",
+    "FLAG": "GH"
+}, {
+    "CODE": "GBR",
+    "X": -2.242536375,
+    "Y": 53.27194082,
+    "NAME": "Great Britain",
+    "NAME2": "",
+    "CNTRY_NAME": "United Kingdom",
+    "LINK": "great-britain",
+    "FLAG": "GB"
+}, {
+    "CODE": "GRE",
+    "X": 22.58872065,
+    "Y": 39.47755321,
+    "NAME": "Greece",
+    "NAME2": "",
+    "CNTRY_NAME": "Greece",
+    "LINK": "greece",
+    "FLAG": "GR"
+}, {
+    "CODE": "GRN",
+    "X": -61.69078642,
+    "Y": 12.11366598,
+    "NAME": "Grenada",
+    "NAME2": "",
+    "CNTRY_NAME": "Grenada",
+    "LINK": "grenada",
+    "FLAG": "GD"
+}, {
+    "CODE": "GUM",
+    "X": 144.8735205,
+    "Y": 13.56647738,
+    "NAME": "Guam",
+    "NAME2": "",
+    "CNTRY_NAME": "Guam",
+    "LINK": "guam",
+    "FLAG": "GU"
+}, {
+    "CODE": "GUA",
+    "X": -91.2387704,
+    "Y": 15.0077141,
+    "NAME": "Guatemala",
+    "NAME2": "",
+    "CNTRY_NAME": "Guatemala",
+    "LINK": "guatemala",
+    "FLAG": "GT"
+}, {
+    "CODE": "GUI",
+    "X": -13.22397085,
+    "Y": 10.86299979,
+    "NAME": "Guinea",
+    "NAME2": "",
+    "CNTRY_NAME": "Guinea",
+    "LINK": "guinea",
+    "FLAG": "GN"
+}, {
+    "CODE": "GBS",
+    "X": -14.41236131,
+    "Y": 12.12419407,
+    "NAME": "Guinea-Bissau",
+    "NAME2": "",
+    "CNTRY_NAME": "Guinea-Bissau",
+    "LINK": "guinea-bissau",
+    "FLAG": "GW"
+}, {
+    "CODE": "GUY",
+    "X": -58.93018129,
+    "Y": 4.570407365,
+    "NAME": "Guyana",
+    "NAME2": "",
+    "CNTRY_NAME": "Guyana",
+    "LINK": "guyana",
+    "FLAG": "GY"
+}, {
+    "CODE": "HAI",
+    "X": -72.33883421,
+    "Y": 18.40213854,
+    "NAME": "Haiti",
+    "NAME2": "",
+    "CNTRY_NAME": "Haiti",
+    "LINK": "haiti",
+    "FLAG": "HT"
+}, {
+    "CODE": "HON",
+    "X": -86.24117294,
+    "Y": 14.85206491,
+    "NAME": "Honduras",
+    "NAME2": "",
+    "CNTRY_NAME": "Honduras",
+    "LINK": "honduras",
+    "FLAG": "HN"
+}, {
+    "CODE": "HKG",
+    "X": 114.1095,
+    "Y": 22.3964,
+    "NAME": "Hong Kong",
+    "NAME2": "China",
+    "CNTRY_NAME": "Hong Kong",
+    "LINK": "hong-kong-china",
+    "FLAG": "HK"
+}, {
+    "CODE": "HUN",
+    "X": 19.5033002,
+    "Y": 47.13168805,
+    "NAME": "Hungary",
+    "NAME2": "",
+    "CNTRY_NAME": "Hungary",
+    "LINK": "hungary",
+    "FLAG": "HU"
+}, {
+    "CODE": "ISL",
+    "X": -19.01892292,
+    "Y": 64.79170238,
+    "NAME": "Iceland",
+    "NAME2": "",
+    "CNTRY_NAME": "Iceland",
+    "LINK": "iceland",
+    "FLAG": "IS"
+}, {
+    "CODE": "IND",
+    "X": 79.5869206,
+    "Y": 22.90894256,
+    "NAME": "India",
+    "NAME2": "",
+    "CNTRY_NAME": "India",
+    "LINK": "india",
+    "FLAG": "IN"
+}, {
+    "CODE": "INA",
+    "X": 113.9272548,
+    "Y": -0.985812754,
+    "NAME": "Indonesia",
+    "NAME2": "",
+    "CNTRY_NAME": "Indonesia",
+    "LINK": "indonesia",
+    "FLAG": "ID"
+}, {
+    "CODE": "IOA",
+    "X": "",
+    "Y": "",
+    "NAME": "IOA",
+    "NAME2": "",
+    "CNTRY_NAME": "IOA",
+    "LINK": "",
+    "FLAG": "IA"
+}, {
+    "CODE": "IRI",
+    "X": 54.19630292,
+    "Y": 32.74482034,
+    "NAME": "Iran",
+    "NAME2": "",
+    "CNTRY_NAME": "Iran",
+    "LINK": "islamic-republic-of-iran",
+    "FLAG": "IR"
+}, {
+    "CODE": "IRQ",
+    "X": 43.77213472,
+    "Y": 33.04802521,
+    "NAME": "Iraq",
+    "NAME2": "",
+    "CNTRY_NAME": "Iraq",
+    "LINK": "iraq",
+    "FLAG": "IQ"
+}, {
+    "CODE": "IRL",
+    "X": -8.243890804,
+    "Y": 53.21322355,
+    "NAME": "Ireland",
+    "NAME2": "",
+    "CNTRY_NAME": "Ireland",
+    "LINK": "ireland",
+    "FLAG": "IE"
+}, {
+    "CODE": "ISR",
+    "X": 34.8516,
+    "Y": 31.0461,
+    "NAME": "Israel",
+    "NAME2": "",
+    "CNTRY_NAME": "Israel",
+    "LINK": "israel",
+    "FLAG": "IL"
+}, {
+    "CODE": "ITA",
+    "X": 9.596583674,
+    "Y": 45.23419139,
+    "NAME": "Italy",
+    "NAME2": "",
+    "CNTRY_NAME": "Italy",
+    "LINK": "italy",
+    "FLAG": "IT"
+}, {
+    "CODE": "JAM",
+    "X": -77.29750897,
+    "Y": 18.11729299,
+    "NAME": "Jamaica",
+    "NAME2": "",
+    "CNTRY_NAME": "Jamaica",
+    "LINK": "jamaica",
+    "FLAG": "JM"
+}, {
+    "CODE": "JPN",
+    "X": 139.2721933,
+    "Y": 36.65071136,
+    "NAME": "Japan",
+    "NAME2": "",
+    "CNTRY_NAME": "Japan",
+    "LINK": "japan",
+    "FLAG": "JP"
+}, {
+    "CODE": "JOR",
+    "X": 36.04559087,
+    "Y": 30.89036066,
+    "NAME": "Jordan",
+    "NAME2": "",
+    "CNTRY_NAME": "Jordan",
+    "LINK": "jordan",
+    "FLAG": "JO"
+}, {
+    "CODE": "KAZ",
+    "X": 66.65782333,
+    "Y": 48.01598512,
+    "NAME": "Kazakhstan",
+    "NAME2": "",
+    "CNTRY_NAME": "Kazakhstan",
+    "LINK": "kazakhstan",
+    "FLAG": "KZ"
+}, {
+    "CODE": "KEN",
+    "X": 37.90619078,
+    "Y": 0.024232092,
+    "NAME": "Kenya",
+    "NAME2": "",
+    "CNTRY_NAME": "Kenya",
+    "LINK": "kenya",
+    "FLAG": "KE"
+}, {
+    "CODE": "KIR",
+    "X": -157.3771225,
+    "Y": 1.83325334,
+    "NAME": "Kiribati",
+    "NAME2": "",
+    "CNTRY_NAME": "Kiribati",
+    "LINK": "kiribati",
+    "FLAG": "KI"
+}, {
+    "CODE": "KOS",
+    "X": 20.903,
+    "Y": 42.6026,
+    "NAME": "Kosovo",
+    "NAME2": "",
+    "CNTRY_NAME": "Kosovo",
+    "LINK": "kosovo",
+    "FLAG": "KO"
+}, {
+    "CODE": "KUW",
+    "X": 47.01435668,
+    "Y": 29.38533576,
+    "NAME": "Kuwait",
+    "NAME2": "",
+    "CNTRY_NAME": "Kuwait",
+    "LINK": "kuwait",
+    "FLAG": "KW"
+}, {
+    "CODE": "KGZ",
+    "X": 74.76554128,
+    "Y": 41.66856705,
+    "NAME": "Kyrgyzstan",
+    "NAME2": "",
+    "CNTRY_NAME": "Kyrgyzstan",
+    "LINK": "kyrgyzstan",
+    "FLAG": "KG"
+}, {
+    "CODE": "LAO",
+    "X": 101.9923427,
+    "Y": 20.28436019,
+    "NAME": "Lao PDR",
+    "NAME2": "",
+    "CNTRY_NAME": "Laos",
+    "LINK": "lao-people-s-democratic-republic",
+    "FLAG": "LA"
+}, {
+    "CODE": "LAT",
+    "X": 22.78544771,
+    "Y": 56.94505554,
+    "NAME": "Latvia",
+    "NAME2": "",
+    "CNTRY_NAME": "Latvia",
+    "LINK": "latvia",
+    "FLAG": "LV"
+}, {
+    "CODE": "LIB",
+    "X": 35.88802653,
+    "Y": 33.92026582,
+    "NAME": "Lebanon",
+    "NAME2": "",
+    "CNTRY_NAME": "Lebanon",
+    "LINK": "lebanon",
+    "FLAG": "LB"
+}, {
+    "CODE": "LES",
+    "X": 28.23476363,
+    "Y": -29.53899527,
+    "NAME": "Lesotho",
+    "NAME2": "",
+    "CNTRY_NAME": "Lesotho",
+    "LINK": "lesotho",
+    "FLAG": "LS"
+}, {
+    "CODE": "LBR",
+    "X": -9.430363283,
+    "Y": 6.349584257,
+    "NAME": "Liberia",
+    "NAME2": "",
+    "CNTRY_NAME": "Liberia",
+    "LINK": "liberia",
+    "FLAG": "LR"
+}, {
+    "CODE": "LBA",
+    "X": 17.23152724,
+    "Y": 26.99136768,
+    "NAME": "Libya",
+    "NAME2": "",
+    "CNTRY_NAME": "Libya",
+    "LINK": "libya",
+    "FLAG": "LY"
+}, {
+    "CODE": "LIE",
+    "X": 9.554263655,
+    "Y": 47.16191651,
+    "NAME": "Liechtenstein",
+    "NAME2": "",
+    "CNTRY_NAME": "Liechtenstein",
+    "LINK": "liechtenstein",
+    "FLAG": "LI"
+}, {
+    "CODE": "LTU",
+    "X": 23.92871366,
+    "Y": 55.13751006,
+    "NAME": "Lithuania",
+    "NAME2": "",
+    "CNTRY_NAME": "Lithuania",
+    "LINK": "lithuania",
+    "FLAG": "LT"
+}, {
+    "CODE": "LUX",
+    "X": 6.087813753,
+    "Y": 49.77062852,
+    "NAME": "Luxembourg",
+    "NAME2": "",
+    "CNTRY_NAME": "Luxembourg",
+    "LINK": "luxembourg",
+    "FLAG": "LU"
+}, {
+    "CODE": "MAD",
+    "X": 46.86910916,
+    "Y": -20.16393913,
+    "NAME": "Madagascar",
+    "NAME2": "",
+    "CNTRY_NAME": "Madagascar",
+    "LINK": "madagascar",
+    "FLAG": "MG"
+}, {
+    "CODE": "MAW",
+    "X": 33.4916458,
+    "Y": -13.39225913,
+    "NAME": "Malawi",
+    "NAME2": "",
+    "CNTRY_NAME": "Malawi",
+    "LINK": "malawi",
+    "FLAG": "MW"
+}, {
+    "CODE": "MAS",
+    "X": 116.8436977,
+    "Y": 5.458808848,
+    "NAME": "Malaysia",
+    "NAME2": "",
+    "CNTRY_NAME": "Malaysia",
+    "LINK": "malaysia",
+    "FLAG": "MY"
+}, {
+    "CODE": "MDV",
+    "X": 73.09587044,
+    "Y": -0.598942297,
+    "NAME": "Maldives",
+    "NAME2": "",
+    "CNTRY_NAME": "Maldives",
+    "LINK": "maldives",
+    "FLAG": "MV"
+}, {
+    "CODE": "MLI",
+    "X": 0.127334227,
+    "Y": 18.34908973,
+    "NAME": "Mali",
+    "NAME2": "",
+    "CNTRY_NAME": "Mali",
+    "LINK": "mali",
+    "FLAG": "ML"
+}, {
+    "CODE": "MLT",
+    "X": 14.44955018,
+    "Y": 35.8853223,
+    "NAME": "Malta",
+    "NAME2": "",
+    "CNTRY_NAME": "Malta",
+    "LINK": "malta",
+    "FLAG": "MT"
+}, {
+    "CODE": "MHL",
+    "X": 168.7000203,
+    "Y": 7.313332389,
+    "NAME": "Marshall Islands",
+    "NAME2": "",
+    "CNTRY_NAME": "Marshall Is.",
+    "LINK": "marshall-islands",
+    "FLAG": "MH"
+}, {
+    "CODE": "MTN",
+    "X": -10.33115448,
+    "Y": 20.25995077,
+    "NAME": "Mauritania",
+    "NAME2": "",
+    "CNTRY_NAME": "Mauritania",
+    "LINK": "mauritania",
+    "FLAG": "MR"
+}, {
+    "CODE": "MRI",
+    "X": 57.56415671,
+    "Y": -20.28142317,
+    "NAME": "Mauritius",
+    "NAME2": "",
+    "CNTRY_NAME": "Mauritius",
+    "LINK": "mauritius",
+    "FLAG": "MU"
+}, {
+    "CODE": "MEX",
+    "X": -101.9511185,
+    "Y": 23.89176641,
+    "NAME": "Mexico",
+    "NAME2": "",
+    "CNTRY_NAME": "Mexico",
+    "LINK": "mexico",
+    "FLAG": "MX"
+}, {
+    "CODE": "FSM",
+    "X": 158.2291899,
+    "Y": 6.878944813,
+    "NAME": "Micronesia",
+    "NAME2": "",
+    "CNTRY_NAME": "Micronesia",
+    "LINK": "federated-states-of-micronesia",
+    "FLAG": "FM"
+}, {
+    "CODE": "MKD",
+    "X": 21.7453,
+    "Y": 41.6086,
+    "NAME": "MKD",
+    "NAME2": "",
+    "CNTRY_NAME": "MKD",
+    "LINK": "the-former-yugoslav-republic-of-macedonia",
+    "FLAG": "MK"
+}, {
+    "CODE": "MON",
+    "X": 7.415095676,
+    "Y": 43.74837631,
+    "NAME": "Monaco",
+    "NAME2": "",
+    "CNTRY_NAME": "Monaco",
+    "LINK": "monaco",
+    "FLAG": "MC"
+}, {
+    "CODE": "MGL",
+    "X": 103.8463048,
+    "Y": 46.00099322,
+    "NAME": "Mongolia",
+    "NAME2": "",
+    "CNTRY_NAME": "Mongolia",
+    "LINK": "mongolia",
+    "FLAG": "MN"
+}, {
+    "CODE": "MNE",
+    "X": 19.4161771,
+    "Y": 42.85807056,
+    "NAME": "Montenegro",
+    "NAME2": "",
+    "CNTRY_NAME": "Montenegro",
+    "LINK": "montenegro",
+    "FLAG": "ME"
+}, {
+    "CODE": "MAR",
+    "X": -6.317846034,
+    "Y": 31.88362475,
+    "NAME": "Morocco",
+    "NAME2": "",
+    "CNTRY_NAME": "Morocco",
+    "LINK": "morocco",
+    "FLAG": "MA"
+}, {
+    "CODE": "MOZ",
+    "X": 38.18783644,
+    "Y": -14.28248034,
+    "NAME": "Mozambique",
+    "NAME2": "",
+    "CNTRY_NAME": "Mozambique",
+    "LINK": "mozambique",
+    "FLAG": "MZ"
+}, {
+    "CODE": "MYA",
+    "X": 96.51383278,
+    "Y": 21.19793086,
+    "NAME": "Myanmar",
+    "NAME2": "",
+    "CNTRY_NAME": "Myanmar",
+    "LINK": "myanmar",
+    "FLAG": "MM"
+}, {
+    "CODE": "NAM",
+    "X": 17.21827741,
+    "Y": -22.13324812,
+    "NAME": "Namibia",
+    "NAME2": "",
+    "CNTRY_NAME": "Namibia",
+    "LINK": "namibia",
+    "FLAG": "NA"
+}, {
+    "CODE": "NRU",
+    "X": 166.9307318,
+    "Y": -0.52252674,
+    "NAME": "Nauru",
+    "NAME2": "",
+    "CNTRY_NAME": "Nauru",
+    "LINK": "nauru",
+    "FLAG": "NR"
+}, {
+    "CODE": "NEP",
+    "X": 83.93854772,
+    "Y": 28.25300758,
+    "NAME": "Nepal",
+    "NAME2": "",
+    "CNTRY_NAME": "Nepal",
+    "LINK": "nepal",
+    "FLAG": "NP"
+}, {
+    "CODE": "NED",
+    "X": 5.327604645,
+    "Y": 51.76996125,
+    "NAME": "Netherlands",
+    "NAME2": "",
+    "CNTRY_NAME": "Netherlands",
+    "LINK": "netherlands",
+    "FLAG": "NL"
+}, {
+    "CODE": "NZL",
+    "X": 168.4294821,
+    "Y": -45.28651856,
+    "NAME": "New Zealand",
+    "NAME2": "",
+    "CNTRY_NAME": "New Zealand",
+    "LINK": "new-zealand",
+    "FLAG": "NZ"
+}, {
+    "CODE": "NCA",
+    "X": -85.4108409,
+    "Y": 12.64597665,
+    "NAME": "Nicaragua",
+    "NAME2": "",
+    "CNTRY_NAME": "Nicaragua",
+    "LINK": "nicaragua",
+    "FLAG": "NI"
+}, {
+    "CODE": "NIG",
+    "X": 9.397647929,
+    "Y": 17.42614907,
+    "NAME": "Niger",
+    "NAME2": "",
+    "CNTRY_NAME": "Niger",
+    "LINK": "niger",
+    "FLAG": "NE"
+}, {
+    "CODE": "NGR",
+    "X": 5.681788712,
+    "Y": 9.185814494,
+    "NAME": "Nigeria",
+    "NAME2": "",
+    "CNTRY_NAME": "Nigeria",
+    "LINK": "nigeria",
+    "FLAG": "NG"
+}, {
+    "CODE": "NOR",
+    "X": 11.46671586,
+    "Y": 61.44021773,
+    "NAME": "Norway",
+    "NAME2": "",
+    "CNTRY_NAME": "Norway",
+    "LINK": "norway",
+    "FLAG": "NO"
+}, {
+    "CODE": "OAR",
+    "X": 103.6742182,
+    "Y": 63.89169791,
+    "NAME": "Olympic Athlete from Russia",
+    "NAME2": "",
+    "CNTRY_NAME": "OAR",
+    "LINK": "",
+    "FLAG": "IA"
+}, {
+    "CODE": "OMA",
+    "X": 57.88513453,
+    "Y": 22.00869809,
+    "NAME": "Oman",
+    "NAME2": "",
+    "CNTRY_NAME": "Oman",
+    "LINK": "oman",
+    "FLAG": "OM"
+}, {
+    "CODE": "PAK",
+    "X": 69.38596583,
+    "Y": 29.9670223,
+    "NAME": "Pakistan",
+    "NAME2": "",
+    "CNTRY_NAME": "Pakistan",
+    "LINK": "pakistan",
+    "FLAG": "PK"
+}, {
+    "CODE": "PLW",
+    "X": 134.5752418,
+    "Y": 7.515074117,
+    "NAME": "Palau",
+    "NAME2": "",
+    "CNTRY_NAME": "Palau",
+    "LINK": "palau",
+    "FLAG": "PW"
+}, {
+    "CODE": "PLE",
+    "X": 35.2332,
+    "Y": 31.9522,
+    "NAME": "Palestine",
+    "NAME2": "",
+    "CNTRY_NAME": "Palestine",
+    "LINK": "palestine",
+    "FLAG": "PS"
+}, {
+    "CODE": "PAN",
+    "X": -78.65632465,
+    "Y": 9.065121509,
+    "NAME": "Panama",
+    "NAME2": "",
+    "CNTRY_NAME": "Panama",
+    "LINK": "panama",
+    "FLAG": "PA"
+}, {
+    "CODE": "PNG",
+    "X": 144.2673834,
+    "Y": -6.619720504,
+    "NAME": "Papua New Guinea",
+    "NAME2": "",
+    "CNTRY_NAME": "Papua New Guinea",
+    "LINK": "papua-new-guinea",
+    "FLAG": "PG"
+}, {
+    "CODE": "PAR",
+    "X": -60.54380461,
+    "Y": -21.6998866,
+    "NAME": "Paraguay",
+    "NAME2": "",
+    "CNTRY_NAME": "Paraguay",
+    "LINK": "paraguay",
+    "FLAG": "PY"
+}, {
+    "CODE": "PER",
+    "X": -78.18483669,
+    "Y": -6.771184634,
+    "NAME": "Peru",
+    "NAME2": "",
+    "CNTRY_NAME": "Peru",
+    "LINK": "peru",
+    "FLAG": "PE"
+}, {
+    "CODE": "PHI",
+    "X": 120.8636723,
+    "Y": 14.16147661,
+    "NAME": "Philippines",
+    "NAME2": "",
+    "CNTRY_NAME": "Philippines",
+    "LINK": "philippines",
+    "FLAG": "PH"
+}, {
+    "CODE": "POL",
+    "X": 19.1455547,
+    "Y": 51.87333866,
+    "NAME": "Poland",
+    "NAME2": "",
+    "CNTRY_NAME": "Poland",
+    "LINK": "poland",
+    "FLAG": "PL"
+}, {
+    "CODE": "POR",
+    "X": -7.962187415,
+    "Y": 39.6919095,
+    "NAME": "Portugal",
+    "NAME2": "",
+    "CNTRY_NAME": "Portugal",
+    "LINK": "portugal",
+    "FLAG": "PT"
+}, {
+    "CODE": "PUR",
+    "X": -66.85049538,
+    "Y": 18.21950944,
+    "NAME": "Puerto Rico",
+    "NAME2": "",
+    "CNTRY_NAME": "Puerto Rico",
+    "LINK": "puerto-rico",
+    "FLAG": "PR"
+}, {
+    "CODE": "QAT",
+    "X": 51.19120124,
+    "Y": 25.31507883,
+    "NAME": "Qatar",
+    "NAME2": "",
+    "CNTRY_NAME": "Qatar",
+    "LINK": "qatar",
+    "FLAG": "QA"
+}, {
+    "CODE": "KOR",
+    "X": 128.7216089,
+    "Y": 36.55977906,
+    "NAME": "South Korea",
+    "NAME2": "",
+    "CNTRY_NAME": "South Korea",
+    "LINK": "republic-of-korea",
+    "FLAG": "KR"
+}, {
+    "CODE": "MDA",
+    "X": 29.25527971,
+    "Y": 46.91417716,
+    "NAME": "Republic of Moldova",
+    "NAME2": "",
+    "CNTRY_NAME": "Moldova",
+    "LINK": "republic-of-moldova",
+    "FLAG": "MD"
+}, {
+    "CODE": "ROU",
+    "X": 24.96925833,
+    "Y": 45.8436147,
+    "NAME": "Romania",
+    "NAME2": "",
+    "CNTRY_NAME": "Romania",
+    "LINK": "romania",
+    "FLAG": "RO"
+}, {
+    "CODE": "RUS",
+    "X": 103.6742182,
+    "Y": 63.89169791,
+    "NAME": "Russian Federation",
+    "NAME2": "",
+    "CNTRY_NAME": "Russia",
+    "LINK": "russian-federation",
+    "FLAG": "RU"
+}, {
+    "CODE": "RWA",
+    "X": 30.38355881,
+    "Y": -1.684986747,
+    "NAME": "Rwanda",
+    "NAME2": "",
+    "CNTRY_NAME": "Rwanda",
+    "LINK": "rwanda",
+    "FLAG": "RW"
+}, {
+    "CODE": "SKN",
+    "X": -62.80271365,
+    "Y": 17.35459295,
+    "NAME": "Saint Kitts & Nevis",
+    "NAME2": "",
+    "CNTRY_NAME": "St. Kitts & Nevis",
+    "LINK": "saint-kitts-and-nevis",
+    "FLAG": "KN"
+}, {
+    "CODE": "LCA",
+    "X": -60.97882295,
+    "Y": 13.89739946,
+    "NAME": "Saint Lucia",
+    "NAME2": "",
+    "CNTRY_NAME": "St. Lucia",
+    "LINK": "saint-lucia",
+    "FLAG": "LC"
+}, {
+    "CODE": "SAM",
+    "X": -172.4739224,
+    "Y": -13.64215212,
+    "NAME": "Samoa",
+    "NAME2": "",
+    "CNTRY_NAME": "Samoa",
+    "LINK": "american-samoa",
+    "FLAG": "WS"
+}, {
+    "CODE": "SMR",
+    "X": 12.45902713,
+    "Y": 43.94222647,
+    "NAME": "San Marino",
+    "NAME2": "",
+    "CNTRY_NAME": "San Marino",
+    "LINK": "san-marino",
+    "FLAG": "SM"
+}, {
+    "CODE": "STP",
+    "X": 6.615690601,
+    "Y": 0.235434914,
+    "NAME": "Sao Tome & Principe",
+    "NAME2": "",
+    "CNTRY_NAME": "Sao Tome & Principe",
+    "LINK": "sao-tome-and-principe",
+    "FLAG": "ST"
+}, {
+    "CODE": "KSA",
+    "X": 45.11912719,
+    "Y": 23.29990252,
+    "NAME": "Saudi Arabia",
+    "NAME2": "",
+    "CNTRY_NAME": "Saudi Arabia",
+    "LINK": "saudi-arabia",
+    "FLAG": "SA"
+}, {
+    "CODE": "SEN",
+    "X": -12.91064051,
+    "Y": 13.94872295,
+    "NAME": "Senegal",
+    "NAME2": "",
+    "CNTRY_NAME": "Senegal",
+    "LINK": "senegal",
+    "FLAG": "SN"
+}, {
+    "CODE": "SRB",
+    "X": 20.91100924,
+    "Y": 43.76051883,
+    "NAME": "Serbia",
+    "NAME2": "",
+    "CNTRY_NAME": "Serbia",
+    "LINK": "serbia",
+    "FLAG": "RS"
+}, {
+    "CODE": "SEY",
+    "X": 55.4725079,
+    "Y": -4.660002319,
+    "NAME": "Seychelles",
+    "NAME2": "",
+    "CNTRY_NAME": "Seychelles",
+    "LINK": "seychelles",
+    "FLAG": "SC"
+}, {
+    "CODE": "SLE",
+    "X": -11.78414071,
+    "Y": 8.569139894,
+    "NAME": "Sierra Leone",
+    "NAME2": "",
+    "CNTRY_NAME": "Sierra Leone",
+    "LINK": "sierra-leone",
+    "FLAG": "SL"
+}, {
+    "CODE": "SIN",
+    "X": 103.8194452,
+    "Y": 1.352108573,
+    "NAME": "Singapore",
+    "NAME2": "",
+    "CNTRY_NAME": "Singapore",
+    "LINK": "singapore",
+    "FLAG": "SG"
+}, {
+    "CODE": "SVK",
+    "X": 19.49165234,
+    "Y": 48.70753053,
+    "NAME": "Slovakia",
+    "NAME2": "",
+    "CNTRY_NAME": "Slovakia",
+    "LINK": "slovakia",
+    "FLAG": "SK"
+}, {
+    "CODE": "SLO",
+    "X": 14.82653835,
+    "Y": 46.12356416,
+    "NAME": "Slovenia",
+    "NAME2": "",
+    "CNTRY_NAME": "Slovenia",
+    "LINK": "slovenia",
+    "FLAG": "SI"
+}, {
+    "CODE": "SOL",
+    "X": 159.9076862,
+    "Y": -9.613207871,
+    "NAME": "Solomon Islands",
+    "NAME2": "",
+    "CNTRY_NAME": "Solomon Is.",
+    "LINK": "solomon-islands",
+    "FLAG": "SB"
+}, {
+    "CODE": "SOM",
+    "X": 43.59428637,
+    "Y": 2.80472853,
+    "NAME": "Somalia",
+    "NAME2": "",
+    "CNTRY_NAME": "Somalia",
+    "LINK": "somalia",
+    "FLAG": "SO"
+}, {
+    "CODE": "RSA",
+    "X": 24.68687717,
+    "Y": -30.00174941,
+    "NAME": "South Africa",
+    "NAME2": "",
+    "CNTRY_NAME": "South Africa",
+    "LINK": "south-africa",
+    "FLAG": "ZA"
+}, {
+    "CODE": "SSD",
+    "X": 31.307,
+    "Y": 6.877,
+    "NAME": "South Sudan",
+    "NAME2": "",
+    "CNTRY_NAME": "South Sudan",
+    "LINK": "south-sudan",
+    "FLAG": "SS"
+}, {
+    "CODE": "ESP",
+    "X": -2.987672734,
+    "Y": 40.07152135,
+    "NAME": "Spain",
+    "NAME2": "",
+    "CNTRY_NAME": "Spain",
+    "LINK": "spain",
+    "FLAG": "ES"
+}, {
+    "CODE": "SRI",
+    "X": 80.70655718,
+    "Y": 7.605125335,
+    "NAME": "Sri Lanka",
+    "NAME2": "",
+    "CNTRY_NAME": "Sri Lanka",
+    "LINK": "sri-lanka",
+    "FLAG": "LK"
+}, {
+    "CODE": "VIN",
+    "X": -61.200214,
+    "Y": 13.25498992,
+    "NAME": "St Vinc & Grenadines",
+    "NAME2": "",
+    "CNTRY_NAME": "St. Vincent & the Grenadines",
+    "LINK": "st-vincent-and-the-grenadines",
+    "FLAG": "VC"
+}, {
+    "CODE": "SUD",
+    "X": 30.2183002,
+    "Y": 12.98025072,
+    "NAME": "Sudan",
+    "NAME2": "",
+    "CNTRY_NAME": "Sudan",
+    "LINK": "sudan",
+    "FLAG": "SD"
+}, {
+    "CODE": "SUR",
+    "X": -55.91182657,
+    "Y": 4.126394149,
+    "NAME": "Suriname",
+    "NAME2": "",
+    "CNTRY_NAME": "Suriname",
+    "LINK": "suriname",
+    "FLAG": "SR"
+}, {
+    "CODE": "SWZ",
+    "X": 31.46586812,
+    "Y": -26.52571362,
+    "NAME": "Swaziland",
+    "NAME2": "",
+    "CNTRY_NAME": "Swaziland",
+    "LINK": "swaziland",
+    "FLAG": "SZ"
+}, {
+    "CODE": "SWE",
+    "X": 20.90359088,
+    "Y": 66.46694541,
+    "NAME": "Sweden",
+    "NAME2": "",
+    "CNTRY_NAME": "Sweden",
+    "LINK": "sweden",
+    "FLAG": "SE"
+}, {
+    "CODE": "SUI",
+    "X": 8.234430786,
+    "Y": 46.80256963,
+    "NAME": "Switzerland",
+    "NAME2": "",
+    "CNTRY_NAME": "Switzerland",
+    "LINK": "switzerland",
+    "FLAG": "CH"
+}, {
+    "CODE": "SYR",
+    "X": 38.99639526,
+    "Y": 35.08812406,
+    "NAME": "Syria",
+    "NAME2": "",
+    "CNTRY_NAME": "Syria",
+    "LINK": "syria",
+    "FLAG": "SY"
+}, {
+    "CODE": "TJK",
+    "X": 69.32039579,
+    "Y": 38.32287344,
+    "NAME": "Tajikistan",
+    "NAME2": "",
+    "CNTRY_NAME": "Tajikistan",
+    "LINK": "tajikistan",
+    "FLAG": "TJ"
+}, {
+    "CODE": "TAN",
+    "X": 34.88881812,
+    "Y": -6.438103105,
+    "NAME": "Tanzania",
+    "NAME2": "",
+    "CNTRY_NAME": "Tanzania",
+    "LINK": "united-republic-of-tanzania",
+    "FLAG": "TZ"
+}, {
+    "CODE": "THA",
+    "X": 103.5662866,
+    "Y": 16.413851,
+    "NAME": "Thailand",
+    "NAME2": "",
+    "CNTRY_NAME": "Thailand",
+    "LINK": "thailand",
+    "FLAG": "TH"
+}, {
+    "CODE": "TLS",
+    "X": 126.1274458,
+    "Y": -8.760043798,
+    "NAME": "Timor-Leste",
+    "NAME2": "",
+    "CNTRY_NAME": "Timor-Leste",
+    "LINK": "democratic-republic-of-timor-leste",
+    "FLAG": "TL"
+}, {
+    "CODE": "TOG",
+    "X": 1.310909125,
+    "Y": 8.082985223,
+    "NAME": "Togo",
+    "NAME2": "",
+    "CNTRY_NAME": "Togo",
+    "LINK": "togo",
+    "FLAG": "TG"
+}, {
+    "CODE": "TGA",
+    "X": -175.2029955,
+    "Y": -21.19689035,
+    "NAME": "Tonga",
+    "NAME2": "",
+    "CNTRY_NAME": "Tonga",
+    "LINK": "tonga",
+    "FLAG": "TO"
+}, {
+    "CODE": "TTO",
+    "X": -61.29212106,
+    "Y": 10.4170796,
+    "NAME": "Trinidad and Tobago",
+    "NAME2": "",
+    "CNTRY_NAME": "Trinidad & Tobago",
+    "LINK": "trinidad-and-tobago",
+    "FLAG": "TT"
+}, {
+    "CODE": "TUN",
+    "X": 10.559302,
+    "Y": 32.7263124,
+    "NAME": "Tunisia",
+    "NAME2": "",
+    "CNTRY_NAME": "Tunisia",
+    "LINK": "tunisia",
+    "FLAG": "TN"
+}, {
+    "CODE": "TUR",
+    "X": 35.43744118,
+    "Y": 38.98866929,
+    "NAME": "Turkey",
+    "NAME2": "",
+    "CNTRY_NAME": "Turkey",
+    "LINK": "turkey",
+    "FLAG": "TR"
+}, {
+    "CODE": "TKM",
+    "X": 58.96053224,
+    "Y": 40.09933084,
+    "NAME": "Turkmenistan",
+    "NAME2": "",
+    "CNTRY_NAME": "Turkmenistan",
+    "LINK": "turkmenistan",
+    "FLAG": "TM"
+}, {
+    "CODE": "TUV",
+    "X": 179.217834,
+    "Y": -8.514701506,
+    "NAME": "Tuvalu",
+    "NAME2": "",
+    "CNTRY_NAME": "Tuvalu",
+    "LINK": "tuvalu",
+    "FLAG": "TV"
+}, {
+    "CODE": "UGA",
+    "X": 30.93315463,
+    "Y": 0.343828793,
+    "NAME": "Uganda",
+    "NAME2": "",
+    "CNTRY_NAME": "Uganda",
+    "LINK": "uganda",
+    "FLAG": "UG"
+}, {
+    "CODE": "UKR",
+    "X": 31.16509509,
+    "Y": 49.35546642,
+    "NAME": "Ukraine",
+    "NAME2": "",
+    "CNTRY_NAME": "Ukraine",
+    "LINK": "ukraine",
+    "FLAG": "UA"
+}, {
+    "CODE": "UAE",
+    "X": 52.78291125,
+    "Y": 23.52576514,
+    "NAME": "United Arab Emirates",
+    "NAME2": "",
+    "CNTRY_NAME": "United Arab Emirates",
+    "LINK": "united-arab-emirates",
+    "FLAG": "AE"
+}, {
+    "CODE": "USA",
+    "X": -99.12886935,
+    "Y": 39.5316721,
+    "NAME": "United States",
+    "NAME2": "",
+    "CNTRY_NAME": "United States",
+    "LINK": "united-states-of-america",
+    "FLAG": "US"
+}, {
+    "CODE": "URU",
+    "X": -56.01239642,
+    "Y": -32.79964546,
+    "NAME": "Uruguay",
+    "NAME2": "",
+    "CNTRY_NAME": "Uruguay",
+    "LINK": "uruguay",
+    "FLAG": "UY"
+}, {
+    "CODE": "UZB",
+    "X": 63.16937232,
+    "Y": 41.75043663,
+    "NAME": "Uzbekistan",
+    "NAME2": "",
+    "CNTRY_NAME": "Uzbekistan",
+    "LINK": "uzbekistan",
+    "FLAG": "UZ"
+}, {
+    "CODE": "VAN",
+    "X": 166.8796907,
+    "Y": -15.38191251,
+    "NAME": "Vanuatu",
+    "NAME2": "",
+    "CNTRY_NAME": "Vanuatu",
+    "LINK": "vanuatu",
+    "FLAG": "VU"
+}, {
+    "CODE": "VEN",
+    "X": -63.19680723,
+    "Y": 7.272336759,
+    "NAME": "Venezuela",
+    "NAME2": "",
+    "CNTRY_NAME": "Venezuela",
+    "LINK": "venezuela",
+    "FLAG": "VE"
+}, {
+    "CODE": "VIE",
+    "X": 107.6338202,
+    "Y": 11.98331272,
+    "NAME": "Vietnam",
+    "NAME2": "",
+    "CNTRY_NAME": "Vietnam",
+    "LINK": "vietnam",
+    "FLAG": "VN"
+}, {
+    "CODE": "ISV",
+    "X": -64.81273159,
+    "Y": 17.73298114,
+    "NAME": "Virgin Islands",
+    "NAME2": "US",
+    "CNTRY_NAME": "Virgin Is.",
+    "LINK": "virgin-islands-us",
+    "FLAG": "VI"
+}, {
+    "CODE": "IVB",
+    "X": -64.62771394,
+    "Y": 18.42201829,
+    "NAME": "Virgin Islands",
+    "NAME2": "GB",
+    "CNTRY_NAME": "British Virgin Is.",
+    "LINK": "virgin-islands-british",
+    "FLAG": "VG"
+}, {
+    "CODE": "YEM",
+    "X": 50.50582497,
+    "Y": 16.89378573,
+    "NAME": "Yemen",
+    "NAME2": "",
+    "CNTRY_NAME": "Yemen",
+    "LINK": "yemen",
+    "FLAG": "YE"
+}, {
+    "CODE": "ZAM",
+    "X": 27.84933673,
+    "Y": -14.60303417,
+    "NAME": "Zambia",
+    "NAME2": "",
+    "CNTRY_NAME": "Zambia",
+    "LINK": "zambia",
+    "FLAG": "ZM"
+}, {
+    "CODE": "ZIM",
+    "X": 29.1547547,
+    "Y": -18.95730473,
+    "NAME": "Zimbabwe",
+    "NAME2": "",
+    "CNTRY_NAME": "Zimbabwe",
+    "LINK": "zimbabwe",
+    "FLAG": "ZW"
+}]);

@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Olympics 2018</title>
+    <meta charset="utf-8">
+    <!-- Define the versions of IE that will be used to render the page. See Microsoft documentation for details. Optional. -->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <!-- Responsive -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="default">
+    <!-- End Responsive -->
+    <!-- Use protocol relative urls that way if the browser is viewing the page via HTTPS the js/css file will be requested using the HTTPS protocol -->
+    <!-- <link rel="stylesheet" href="//js.arcgis.com/4.0/esri/css/calcite/common.css"> -->
+    <link rel="stylesheet" href="//js.arcgis.com/4.0/esri/css/main.css">
+    <link rel="stylesheet" href="js/Card/css/Card.css">
+    <link rel="stylesheet" href="js/Switch/css/widget.css">
+    <!-- Load any application specific styles -->
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body class="app-loading">
+    <div class="loading-indicator">
+        <div class="loading-message" id="loading_message"></div>
+    </div>
+    <!-- PANEL VIEW -->
+    <div id="panelView"></div>
+    <!-- PANEL LOGO -->
+    <div id="panelLogo">
+        <a href="http://www.esri.com" target=_blank><img src="images/logo.png" /></a>
+    </div>
+    <!-- PANEL BOTTOM -->
+    <div id="panelBottom">
+        <div id="panelContent"></div>
+    </div>
+    <!-- PANEL TOP -->
+    <div id="panelTop" class="shadow">
+        <div id="panelTitle">PYEONGCHANG <span class="thin">2018</span></div>
+        <div id="panelSwitch"></div>
+    </div>
+    <!-- TRANSLATE -->
+    <!-- <div id="google_translate_element"></div>
+    <script type="text/javascript">
+    function googleTranslateElementInit() {
+        new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
+    }
+    </script>
+    <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
+    <!-- TRANSLATE -->
+    <script type="text/javascript">
+    var package_path = window.location.pathname.substring(0, window.location.pathname.lastIndexOf('/'));
+    var dojoConfig = {
+        async: true,
+        packages: [{
+            name: "application",
+            location: package_path + '/js'
+        }]
+    };
+    </script>
+    <script type="text/javascript" src="//js.arcgis.com/4.0/"></script>
+    <script type="text/javascript">
+    require([
+        "application/config",
+        "application/main"
+    ], function(
+        config,
+        Main
+    ) {
+        var myApp = new Main();
+        myApp.startup(config);
+    });
+    </script>
+</body>
+
+</html>

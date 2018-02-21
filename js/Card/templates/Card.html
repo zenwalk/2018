@@ -1,0 +1,33 @@
+<div data-dojo-attach-point="cardNode" class="${css.root}" role="presentation">
+    <div class="flipper">
+    <div data-dojo-attach-point="frontNode" class="front shadow">
+      <div data-dojo-attach-point="topNode" class="top" data-dojo-attach-event="onclick:toggle">
+        <div data-dojo-attach-point="numNode" class="num"></div>
+        <div data-dojo-attach-point="glowNode" class="glow"></div>
+      </div>
+      <div data-dojo-attach-point="bottomNode" class="bottom" style="background-image:url(images/flags/${flag}.svg)">
+        <div class="name">${name}</div>
+        <div class="flip" data-dojo-attach-event="onclick:flip"></div>  
+      </div>
+    </div>
+    <div data-dojo-attach-point="backNode" class="back shadow">
+      <div class="backInner">
+        <div class="name">${name}</div>
+        <div class="row">GOLD
+          <div id="m0" class="medal gold" data-dojo-attach-event="onclick:setMode">${gold}</div>
+        </div>
+        <div class="row">SILVER
+          <div id="m1" class="medal silver" data-dojo-attach-event="onclick:setMode">${silver}</div>
+        </div>
+        <div class="row">BRONZE
+          <div id="m2" class="medal bronze" data-dojo-attach-event="onclick:setMode">${bronze}</div>
+        </div>
+        <div class="row">TOTAL
+          <div id="m3" class="medal total" data-dojo-attach-event="onclick:setMode">${total}</div>
+        </div>
+      </div>
+      <div class="flip" data-dojo-attach-event="onclick:flip"></div>
+    </div>
+    </div>
+  </div>
+  
